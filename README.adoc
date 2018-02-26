@@ -10,7 +10,7 @@ Kotlin
 
 Programming Kotlin
 (저자 : Stephen Samuel,‎ Stefan Bocutiu) 학습 저장소
- 
+
 Byeongsoon Jang<byeongsoon@wisoft.io>
 
 |===
@@ -20,7 +20,7 @@ Byeongsoon Jang<byeongsoon@wisoft.io>
 
 ** Programming Kotlin에서 학습한 예제 코드를 등록한다.
 ** 추가적으로 설명이 필요한 부분이나 중요한 내용은
-link:https://github.com/ByeongSoon/TIL[여기]
+link:https://github.com/ByeongSoon/TIL/tree/master/Kotlin[여기]
 에 작성한다.
 ** 안드로이드 어플리케이션 개발을 위해서 학습한다.
 
@@ -29,7 +29,7 @@ link:https://github.com/ByeongSoon/TIL[여기]
 
 == 목차
 
-. 코틀린 시작하기
+. link:https://github.com/ByeongSoon/Kotlin/blob/master/ch01_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/src/HelloWorld.kt[코틀린 시작하기]
 . 코틀린 기본기
 . 코틀린과 객체 지향 프로그래밍
 . 코틀린과 함수
