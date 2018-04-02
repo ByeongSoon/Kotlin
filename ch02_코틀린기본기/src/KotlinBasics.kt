@@ -1,4 +1,4 @@
-fun main(args: Array<String>){
+fun main(args: Array<String>) {
     var name = "Beyongsoon Jang" // var 변수 초기화
     println(name)
 
@@ -90,6 +90,18 @@ fun main(args: Array<String>){
     val rawString = """raw string is super useful for strings that span many lines"""
 
     println(rawString)
+
+    var array = arrayOf(1, 2, 3)                  // ㅂㅐ열
+
+    for (arr in array)
+        println(arr)
+
+    var perfectSquares = Array(10, { k -> k * k }) // 함수로부터 배열 생성
+    for (k in perfectSquares)
+        println(k)
+
+    println(array.size)
 }
 
 fun plusOne(x: Int) = x + 1
+
