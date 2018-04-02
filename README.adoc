@@ -30,7 +30,7 @@ link:https://github.com/ByeongSoon/TIL/tree/master/Kotlin[여기]
 == 목차
 
 . link:https://github.com/ByeongSoon/Kotlin/blob/master/ch01_%EC%BD%94%ED%8B%80%EB%A6%B0%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/src/HelloWorld.kt[코틀린 시작하기]
-. link:https://github.com/ByeongSoon/Kotlin/blob/master/ch02_%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B8%B0%EB%B3%B8%EA%B8%B0/src/KotlinBasics.kt[코틀린 기본기]
+. link:https://github.com/ByeongSoon/Kotlin/tree/master/ch02_%EC%BD%94%ED%8B%80%EB%A6%B0%EA%B8%B0%EB%B3%B8%EA%B8%B0/src[코틀린 기본기]
 . 코틀린과 객체 지향 프로그래밍
 . 코틀린과 함수
 . 고차 함수와 함수형 프로그래밍
