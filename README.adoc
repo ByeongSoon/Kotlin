@@ -36,7 +36,7 @@ link:https://github.com/ByeongSoon/TIL/tree/master/Kotlin[여기]
 . link:https://github.com/ByeongSoon/Kotlin/tree/master/ch05_%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98/src[고차 함수와 함수형 프로그래밍]
 . link:https://github.com/ByeongSoon/Kotlin/blob/master/ch06_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0/src/Properties.kt[프로퍼티]
 . link:https://github.com/ByeongSoon/Kotlin/tree/master/ch07_%EB%84%90%EC%95%88%EC%A0%95%EC%84%B1/src[Null 안정성], 리플렉션, 애노테이션
-. 재네릭
+. link:https://github.com/ByeongSoon/Kotlin/blob/master/ch08_%EC%9E%AC%EB%84%A4%EB%A6%AD/src/GenericTest.kt[재네릭]
 . 데이터 클래스
 . 컬렉션
 . 코틀린과 테스트
